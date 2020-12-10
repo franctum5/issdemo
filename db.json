@@ -1,16 +1,15 @@
 {
-  "roomtemp": [
-    {
-      "id": 1,
-      "temp": 18
-    },
-    {
-     "id":2,
-     "temp": 22
-    }
-  ],
+  "roomtemp": 
+  {
+    "temperature": 18,
+    "averageTemperatureInUserCountry" : 17
+  },
   "bestroom": {
-    "name": "room 42",
-    "distance": 15
+    "name": "Super Room",
+    "number": "42",
+    "distanceInMeters": 15,
+    "direction": "take left moving out current room, then straight up to first X-cross, there go right, the room is the first one on the right",
+    "details": "Equipment: Video and Audio",
+    "currentTemperature": 22
   }
 }
