@@ -1,0 +1,17 @@
+{
+  "roomtemp": [
+    {
+      "id": 1,
+      "temp": 18
+    },
+    {
+     "id":2,
+     "temp": 22
+    }
+  ],
+  "avgtemp": 20,
+  "bestroom": {
+    "name": "room 42",
+    "distance": 15
+  }
+}
