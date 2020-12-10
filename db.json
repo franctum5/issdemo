@@ -9,14 +9,8 @@
      "temp": 22
     }
   ],
-  "avgtemp": [
-    {
-      "id": 1,
-      "temp": 18
-    },
-    {
-     "id":2,
-     "temp": 22
-    }
-  ]
+  "bestroom": {
+    "name": "room 42",
+    "distance": 15
+  }
 }
