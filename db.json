@@ -9,5 +9,5 @@
      "temp": 22
     }
   ],
-  "avgtemp": 20
+  "avgtemp": [20]
 }
